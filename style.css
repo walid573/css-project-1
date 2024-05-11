@@ -108,6 +108,7 @@ button{
         color: gray;
         font-size: 24px;
         font-weight: 400;
+       
     }
     .store-design{
         display: flex;
@@ -136,6 +137,7 @@ button{
 /* track section */
 .track-section{
     position: relative;
+    margin: 0% auto;
 
     .bg-track{
         position: absolute;
