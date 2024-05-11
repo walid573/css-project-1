@@ -155,7 +155,7 @@ button{
             gap: 20px;
 
             & div{
-                width: 120px;
+                width: 150px;
                 display: flex;
                 flex-direction: column;
                 gap: 20px;
